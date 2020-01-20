@@ -1,0 +1,11 @@
+feedparser==5.2.1
+certifi==2019.11.28
+chardet==3.0.4
+funcsigs==1.0.2
+idna==2.8
+mock==3.0.5
+requests==2.22.0
+spotipy==2.6.0
+urllib3==1.25.7
+Pillow==6.2.2
+skywriter==0.0.7
