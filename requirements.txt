@@ -6,6 +6,6 @@ idna==2.8
 mock==3.0.5
 requests==2.22.0
 spotipy==2.6.0
-urllib3==1.25.7
+urllib3==1.26.5
 Pillow==6.2.2
 skywriter==0.0.7
